@@ -257,19 +257,19 @@ p {
 	padding: 15rem 0;
 }
  
-#about .left {
+#about {
 	padding: 2rem;
 	text-align: center;
 }
 
-#about .left .card {
+#about .card {
 	box-shadow: 0px 0px 20px #00000033;
 	padding: 3rem;
 	border-radius: 12px;
 	min-height: 400px;
 }
 
-#about .left .card .img {
+#about .card .img {
 	width: 70px;
 	height: 70px;
 	margin: 0 auto;
@@ -278,16 +278,16 @@ p {
 	margin-bottom: 2rem;
 }
 
-#about .left .card .img img {
+#about .card .img img {
 	object-fit: cover;
 }
 
-#about .left .card .card-desc {
+#about .card .card-desc {
 	color: #000000;
 	margin-bottom: 2rem;
 }
 
-#about .left .card .card-name {
+#about .card .card-name {
 	font-size: 2rem;
 	margin-bottom: 0.2rem;
 }
